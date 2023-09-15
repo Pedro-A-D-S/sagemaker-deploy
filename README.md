@@ -5,8 +5,6 @@ This project demonstrates how to deploy a TensorFlow model on Amazon SageMaker, 
 ## Project Structure
 
 ```
-├── data
-│   └── iris.csv
 ├── notebooks
 │   └── deploy-sagemaker-tensorflow.ipynb
 └── src
