@@ -12,17 +12,12 @@ This project demonstrates how to deploy a TensorFlow model on Amazon SageMaker, 
     ├── mnist_tf2.py
 ```
 
-- The `data/` folder contains the dataset file, `iris.csv`.
 - `LICENSE` contains the project's licensing information.
 - The `notebooks/` directory includes Jupyter notebooks for data exploration and model deployment.
 - `README.md` is this document.
 - The `src/` folder contains the source code for the TensorFlow model and any associated files.
 
 ## Notebooks
-
-### Data Exploration (`notebooks/exploration.ipynb`)
-
-This notebook explores the Iris dataset and performs basic data preprocessing. It provides insights into the dataset before model training.
 
 ### SageMaker Deployment (`notebooks/deploy-sagemaker-tensorflow.ipynb`)
 
